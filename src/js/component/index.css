@@ -1,0 +1,35 @@
+.btn{ 
+    margin-right: 100px; 
+    width: 300px; 
+    height: 60px;
+    
+    } 
+    .addContainer{ 
+        display: inline-block; 
+        margin-left: 500px;
+    
+    } 
+    .form-control{ 
+       width: 700px;  
+      
+    }  
+    .btn{ 
+    margin-left: 200px;
+    }
+    .lista{ 
+        margin-left: 500px;   
+        margin-right: 350px;
+      width: 700px;
+    
+    } 
+    .Borde{ 
+    border:5px solid rgb(99, 98, 98);  
+      
+    }
+    .images{ 
+       padding-left: 50px;
+      
+    } 
+    .trash{  
+        padding-left: 20px;
+    } 
