@@ -8,4 +8,4 @@ export const Home = () => (
 
 		
 	</div>
-);git add .
+);
